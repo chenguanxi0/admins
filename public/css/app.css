@@ -1,0 +1,22 @@
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
+.clearBoth{
+    clear: both;
+}
+.import{
+   margin-left: 10px;
+}
+
+#m-footer {
+    padding: 20px;
+    margin: 70px 0 0;
+    text-align: center;
+    background-color: #d4cece;
+    clear: both;
+}
+
+.contentBox{min-height: 735px;}
